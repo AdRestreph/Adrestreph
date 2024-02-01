@@ -8,10 +8,6 @@
 
 <h1 align="center"><b> **About me** </b></h1>
 
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>
 
 **Technical stuff**
 
