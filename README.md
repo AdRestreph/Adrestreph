@@ -118,7 +118,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/andres-david-restrepo-hernandez-42402827a/" target="_blank">
+<a href="https://linkedin.com/in/andres-david-restrepo-hernandez-42402827a/" target="_blank">
 <img src="https://img.shields.io/badge/Andres%20David%20Restrepo%20Hernandez%20-white?style=for-the-badge&logo=LinkedIn&logoColor=%23ffffff&label=LINKEDIN&labelColor=%230A66C2&color=%23424242
 " alt=linkedin/>
 </a>
