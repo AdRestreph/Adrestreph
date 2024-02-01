@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> <h2 align="center"><b> **About me** </b></h2>
+## <h2 align="center"><b> <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me** </b></h2>
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
@@ -20,6 +20,7 @@
 - Hello, and welcome to my GitHub profile! My name is Andres David Restrepo, and I am a Jr. fullstack developer apprentice.
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
+
 
 **Personal stuff**
 
@@ -46,11 +47,11 @@
     
 - **Front-End Development**:
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=%23002e54&color=%238afdff)&nbsp;
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-white?style=for-the-badge&logo=Bootstrap&logoColor=%23ffffff&color=%237952B3)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+  ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=%23002e54&color=%238afdff)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-white?style=for-the-badge&logo=Bootstrap&logoColor=%23ffffff&color=%237952B3)&nbsp;
 
 <br>
 
