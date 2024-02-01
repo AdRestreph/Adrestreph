@@ -6,7 +6,7 @@
 
 <br>
 
-## <h2 align="center"><b> <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me** </b></h2>
+## <h1 align="left"><b> <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me** </b></h1>
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
