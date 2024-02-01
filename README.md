@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Andres Restrepo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F76262&center=true&random=false&width=435&lines=Systems+engineering+student%2C;Jr.+Fullstack+developer+apprentice%2C;Passionate+about+IA%2C;Aimed+at+data+scientists...)]">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F76262&center=true&random=false&width=435&lines=Systems+engineering+student%2C;Jr.+Fullstack+developer+apprentice%2C;Passionate+about+IA%2C;Aimed+at+data+scientists...">
 </p>
 
 <br>
