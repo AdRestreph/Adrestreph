@@ -6,7 +6,7 @@
 
 <br>
 
-<h1 align="center"><b> **About me** </b></h1>
+<h1 align="center"><b> About me </b></h1>
 
 
 **Technical stuff**
@@ -17,6 +17,7 @@
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
+<br>
 
 **Personal stuff**
 
@@ -121,8 +122,8 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
+<a href="https://twitter.com/leadsun" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  LeadSun-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
 </li>
 
