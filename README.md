@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F76262&center=true&random=false&width=435&lines=Systems+engineering+student%2C;Jr.+Fullstack+developer+apprentice%2C;Passionate+about+IA%2C;Aimed+at+data+scientists...">
 </p>
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 60px></picture> **About me**
+
 
 
 **Technical stuff**
@@ -90,8 +91,7 @@
 
 <div align="center">
 
-[![Abdul Khalid's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Abdul Khalid's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AdRestreph/Graphics-Stats/updates/profile-summary-card-output/apprentice/2-most-commit-language.svg)
 
 </div>
 
