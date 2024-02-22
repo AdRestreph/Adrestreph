@@ -2,7 +2,7 @@
 
 <p align="left">
  <picture><img src = "./assets/mdImages/about_me.gif" width = 60px> <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F76262&center=true&random=false&width=435&lines=Systems+engineering+student%2C;Jr.+Fullstack+developer+apprentice%2C;Passionate+about+IA%2C;Aimed+at+data+scientists..."></picture>
-<h1 align="center"><b> About me </b></h1>
+<h1 align="center"> About me </h1>
 </p>
 
 
