@@ -131,8 +131,10 @@
 
 <li>
 <a href="mailto:adrestreph@eafit.edu.co" target="_blank">
-<img src="https://img.shields.io/badge/%20adrestreph%40eafit.edu.co%20-white?style=for-the-badge&logo=microsoftoutlook&logoColor=%23ffffff&labelColor=%230A66C2&color=%23424242
-" t=mail/>
+<img src="https://img.shields.io/badge/Adrestreph-Outlook?style=flat-square&logo=microsoftoutlook&logoColor=white&color=%230078D4"t=mail style="margin-bottom: 5px;>
+</a>
+	<a href="mailto:dperezz@unal.edu.co" target="_blank">
+  <img src="https://img.shields.io/badge/gmail:  dperezz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
