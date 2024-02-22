@@ -118,16 +118,6 @@
 </a>
 </li>
 
-<br>
-
-<br>
-
-<li>
-<a href="mailto:adrestreph@eafit.edu.co" target="_blank">
-<img src="https://img.shields.io/badge/Adrestreph-Outlook?style=flat-square&logo=microsoftoutlook&logoColor=white&color=%230078D4" t=mail style="margin-bottom: 15px;" />
-</a>
-</li>
-
 <li>
 <a href="mailto:andresdavid1313@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Outlook:  Adrestreph-%23EA4335.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=%230078D4" t=mail style="margin-bottom: 5px;" />
