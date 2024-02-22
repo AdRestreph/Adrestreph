@@ -37,6 +37,7 @@
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![Java](https://img.shields.io/badge/Java-oracle?style=flat-square&logo=Oracle&logoColor=black&color=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=Oracle&logoColor=black&color=white)&nbsp;
 
 
 <br>   
