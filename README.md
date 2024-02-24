@@ -22,7 +22,7 @@
 
 <br>
 
-- I like
+- I
 
 <br>
 
