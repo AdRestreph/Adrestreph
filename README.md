@@ -22,7 +22,17 @@
 
 <br>
 
-- I
+**My Hobbies and Personal Interests**
+
+In addition to my professional pursuits in software development, I have a diverse range of hobbies and personal interests that enrich my life outside of work.
+
+One of my greatest passions is animals. I have always felt a deep connection with them, finding solace and joy in their company. Whether it's caring for my own pets or volunteering at local animal shelters, spending time with animals brings me immense happiness.
+
+Reading is another hobby that holds a special place in my heart. I love to immerse myself in captivating stories and explore new worlds through literature. From fiction to non-fiction, I find inspiration and knowledge in the pages of books, constantly expanding my horizons with each new read.
+
+Gaming is also a significant part of my life, serving as a complementary aspect to my career in software development. I enjoy the creative challenges and problem-solving opportunities that gaming provides, as well as the sense of camaraderie that comes from playing with friends and fellow enthusiasts.
+
+These hobbies not only provide me with relaxation and enjoyment but also fuel my creativity and curiosity, enhancing my overall well-being and contributing to a balanced lifestyle.
 
 <br>
 
