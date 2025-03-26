@@ -13,7 +13,7 @@ I am Andres David Restrepo, a **Systems Engineering student** and **Fullstack De
 - 💻 Strong foundation in **Python, JavaScript, and Java** for software development.
 - ⚙️ Experienced in **Back-End (FastAPI, Node.js, SQL)** and **Front-End (React, TailwindCSS, Bootstrap)**.
 - 📊 Passionate about **Data Science, Machine Learning, and Deep Learning**.
-- 🛠️ Currently learning **Docker, Pandas, and advanced AI techniques**.
+- 🛠️ Currently learning **Docker, and advanced AI techniques**.
 
 ### 🎮 Hobbies & Interests
 - 📖 **Reading** technical books and AI-related research papers.
