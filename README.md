@@ -6,14 +6,14 @@
 
 ## 🚀 About Me
 
-I am Andres David Restrepo, a **Systems Engineering student** and **Fullstack Developer** with a deep passion for **Artificial Intelligence (AI) and Data Science**. My primary focus is on leveraging AI and Machine Learning to solve real-world problems, enhance data-driven decision-making, and build intelligent applications.
+I am a Systems Engineering student with a strong interest in Data Science, Artificial Intelligence, and Web Development. I have complementary training in Full Stack development and Data Analysis, which has allowed me to work on projects involving computer vision, machine learning models, and full-stack applications using technologies such as Python, TensorFlow, PyTorch, React, and Node.js. My goal is to apply data-driven and intelligent solutions to real-world challenges while continuing to grow as a developer and researcher. Outside of my academic and professional journey, I enjoy video games, reading about AI and technology, and exploring new areas of knowledge that foster creativity and critical thinking.
 
 ### 🔬 Technical Background
 - 📚 Currently pursuing a **Bachelor's degree in Systems Engineering** at Universidad EAFIT.
-- 💻 Strong foundation in **Python, JavaScript, and Java** for software development.
-- ⚙️ Experienced in **Back-End (FastAPI, Node.js, SQL)** and **Front-End (React, TailwindCSS, Bootstrap)**.
+- 💻 Strong foundation in **Python, Java, and JavaScript** for software development.
+- ⚙️ Experienced in **DataScience and DataAnalyst | Backend development**
 - 📊 Passionate about **Data Science, Machine Learning, and Deep Learning**.
-- 🛠️ Currently learning **Docker, and advanced AI techniques**.
+- 🛠️ Currently learning **Advanced AI techniques**.
 
 ### 🎮 Hobbies & Interests
 - 📖 **Reading** technical books and AI-related research papers.
@@ -45,7 +45,7 @@ I am Andres David Restrepo, a **Systems Engineering student** and **Fullstack De
 
 ### **Tools & Technologies**
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>                                      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>                     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>                        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
 
 ---
@@ -67,11 +67,11 @@ I am Andres David Restrepo, a **Systems Engineering student** and **Fullstack De
 ## 🤝 Let's Connect!
 
 <a href="https://www.linkedin.com/in/andres-david-restrepo-hernandez-42402827a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Andres%20Restrepo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+<img src="https://img.shields.io/badge/LinkedIn-Andres%20Restrepo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
 
 <a href="mailto:andresdavid1313@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Andres%20Restrepo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=email />
+<img src="https://img.shields.io/badge/Gmail-Andres%20Restrepo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=email />
 </a>
 
 ---
